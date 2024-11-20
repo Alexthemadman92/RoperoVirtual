@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623666510803",
+    "project_id": "roperovirtual-w00yzs",
+    "storage_bucket": "roperovirtual-w00yzs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623666510803:android:31e056794c50df6a5acd26",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4TdO1QPgTpqPy2uN26xahMh4v0x93ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
